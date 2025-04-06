@@ -1,0 +1,9 @@
+{
+  "dicomServiceConfig" : {
+    "@class" : ".DicomServiceWorklistConfig",
+    "id" : "WKL99",
+    "description" : "WKL",
+    "calledAETitle" : "*"
+  },
+  "scope" : "simon.be:dicomgate:dicomgate"
+}

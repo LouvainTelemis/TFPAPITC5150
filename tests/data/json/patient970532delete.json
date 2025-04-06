@@ -1,0 +1,27 @@
+{
+    "identifiers": [
+        {
+            "value": "CTAB970532",
+            "type": "PRIMARY",
+            "format": "PRIMARY",
+            "issuer": "LLN-SANTE-BWL",
+            "issuerUid": "2.16.56.123456789.6",
+            "effectiveDate": null,
+            "expirationDate": null
+        }
+    ],
+    "primaryLanguage": null,
+    "name": {
+        "familyName": "AZ970532",
+        "givenName": "AURELIEN",
+        "usualName": null,
+        "prefix": null,
+        "suffix": null
+    },
+    "address": null,
+    "gender": "MALE",
+    "birthDate": "1949-12-24",
+    "vip": false,
+    "birthPlace": "",
+    "motherMaidenName": null
+}

@@ -1,0 +1,9 @@
+{
+  "config" : {
+    "name" : "RIS2597",
+    "port" : 2597,
+    "worklistManagementMappings" : [ "TESTORMO01"]
+  },
+  "running" : true,
+  "scope" : "simon.be:hl7gate:hl7gate"
+}

@@ -1,0 +1,8 @@
+{
+  "type" : "Worklist",
+  "name" : "MYTEST95",
+  "messageType" : "ORM",
+  "triggerEvent" : "O01",
+  "dictionary" : "2.5.1",
+  "scope" : "simon.be:hl7gate:hl7gate"
+}

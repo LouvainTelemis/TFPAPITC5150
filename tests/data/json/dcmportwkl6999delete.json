@@ -1,0 +1,11 @@
+{
+  "description" : "WKL",
+  "maxConcurrency" : 0,
+  "type" : "NORMAL",
+  "calledAETitle" : "*",
+  "portNumber" : 6999,
+  "enabled" : true,
+  "services" : [ "WKL99" ],
+  "tlsEnabled" : false,
+  "scope" : "simon.be:dicomgate:dicomgate"
+}

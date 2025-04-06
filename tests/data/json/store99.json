@@ -1,0 +1,9 @@
+{
+  "dicomServiceConfig": {
+    "id": "STORE99",
+    "description": "STORE",
+    "calledAETitle": "*",
+    "@class": ".DicomServiceStoreConfig"
+  },
+  "scope": "simon.be:dicomgate:dicomgate"
+}
